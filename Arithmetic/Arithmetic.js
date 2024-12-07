@@ -50,3 +50,10 @@ console.log(y);
     console.log(b);
 
 }
+
+
+
+{
+    
+    console.log(1800+400);
+}
