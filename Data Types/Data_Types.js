@@ -26,6 +26,7 @@ const employee={
 };                                //Object
 
 console.log(typeof(employee));
+console.log(typeof employee["firstname"]);
 console.log(employee);
 
 
